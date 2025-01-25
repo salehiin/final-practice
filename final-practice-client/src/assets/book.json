@@ -1,0 +1,341 @@
+[
+    {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "review": "Harper Lee’s Pulitzer Prize-winning novel is a timeless tale of racial injustice and childhood innocence. Set in the racially segregated South, it tells the story of Scout Finch and her father, Atticus, a lawyer defending a black man falsely accused of a crime. Through Scout’s eyes, we witness profound lessons about empathy, morality, and standing up for what’s right. Lee masterfully intertwines humor, warmth, and profound social commentary, creating a work that resonates deeply with readers of all ages. This classic remains a powerful reminder of the importance of integrity and justice.",
+        "published_date": "1960-07-11",
+        "genre": "Fiction",
+        "ISBN": "9780060935467"
+      },
+      {
+        "name": "1984",
+        "author": "George Orwell",
+        "review": "Orwell’s dystopian masterpiece explores a world dominated by surveillance, propaganda, and authoritarianism. In Oceania, where Big Brother watches every move, Winston Smith dares to rebel against the Party’s oppressive regime. As Winston grapples with truth, freedom, and love, Orwell paints a chilling portrait of a future devoid of individuality and autonomy. The novel’s exploration of language, control, and thought manipulation remains as relevant as ever. With its powerful narrative and unflinching vision, 1984 serves as a stark warning about the dangers of totalitarianism and the fragility of democratic ideals.",
+        "published_date": "1949-06-08",
+        "genre": "Dystopian Fiction",
+        "ISBN": "9780451524935"
+      },
+      {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "review": "This classic romantic comedy of manners revolves around Elizabeth Bennet and her complicated relationship with Mr. Darcy. Austen’s sharp wit and keen social observations bring to life a tale of love, pride, and misunderstandings. As Elizabeth and Darcy navigate societal expectations and personal flaws, they discover the true essence of love and respect. Austen’s characters are richly drawn, and her commentary on class and gender remains timeless. With its engaging prose and unforgettable characters, Pride and Prejudice continues to charm readers and offers insights into human nature and relationships.",
+        "published_date": "1813-01-28",
+        "genre": "Romance",
+        "ISBN": "9780141040349"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "review": "Fitzgerald’s classic explores the glamour and despair of the Jazz Age, revealing the darker side of the American Dream. Jay Gatsby’s relentless pursuit of wealth and his unyielding love for Daisy Buchanan lead to a tragic downfall. Narrated by Nick Carraway, the novel paints a vivid portrait of decadence and disillusionment. With its lyrical prose and haunting themes, The Great Gatsby captures the fleeting nature of dreams and the complexities of human desires. Fitzgerald’s masterpiece continues to captivate readers with its timeless exploration of ambition, love, and identity.",
+        "published_date": "1925-04-10",
+        "genre": "Fiction",
+        "ISBN": "9780743273565"
+      },
+      {
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "review": "An epic tale of obsession and revenge, Moby-Dick follows Captain Ahab’s relentless quest to hunt the white whale that maimed him. Narrated by Ishmael, the novel delves into themes of fate, humanity, and the mysteries of the sea. Melville’s intricate descriptions and profound philosophical insights make this a masterpiece of American literature. The novel is a rich tapestry of adventure, symbolism, and introspection, offering readers a deep exploration of the human condition. With its powerful narrative and timeless themes, Moby-Dick remains a cornerstone of literary achievement.",
+        "published_date": "1851-10-18",
+        "genre": "Adventure Fiction",
+        "ISBN": "9780142437242"
+      },
+      {
+        "name": "War and Peace",
+        "author": "Leo Tolstoy",
+        "review": "This monumental novel is a sweeping saga of love, war, and human destiny. Set during the Napoleonic Wars, it intertwines the lives of families against the backdrop of historical events. Tolstoy’s characters are deeply human, with their struggles, triumphs, and complexities vividly portrayed. Themes of fate, morality, and the impact of history are explored with unparalleled depth. With its intricate plot, profound philosophical reflections, and vivid storytelling, War and Peace stands as one of the greatest literary achievements. Tolstoy’s masterpiece remains a testament to the enduring power of human spirit and resilience.",
+        "published_date": "1869-01-01",
+        "genre": "Historical Fiction",
+        "ISBN": "9780143039990"
+      },
+      {
+        "name": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "review": "This beloved classic tells the story of Jane Eyre, an orphaned girl who grows up facing numerous hardships but remains strong and independent. Her journey takes her to Thornfield Hall, where she becomes a governess and falls in love with the enigmatic Mr. Rochester. Brontë weaves themes of love, morality, and social criticism into a compelling narrative that explores the depths of human emotions. With its unforgettable characters and vivid storytelling, Jane Eyre continues to captivate readers as a tale of resilience and self-discovery.",
+        "published_date": "1847-10-16",
+        "genre": "Romance",
+        "ISBN": "9780142437204"
+      },
+      {
+        "name": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "review": "A gripping psychological drama, Crime and Punishment delves into the mind of Raskolnikov, a young man driven to commit murder. Dostoevsky masterfully explores themes of guilt, redemption, and morality as Raskolnikov grapples with his conscience. Set against the backdrop of 19th-century St. Petersburg, the novel vividly portrays the struggles of the human soul. With its intense narrative and profound philosophical insights, Crime and Punishment is a testament to Dostoevsky’s genius and remains a cornerstone of world literature.",
+        "published_date": "1866-01-01",
+        "genre": "Psychological Fiction",
+        "ISBN": "9780486415871"
+      },
+      {
+        "name": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "review": "Wuthering Heights is a haunting tale of passion, vengeance, and the destructive nature of love. Set on the windswept Yorkshire moors, the novel follows the turbulent relationship between Heathcliff and Catherine Earnshaw. Brontë’s richly atmospheric prose captures the raw emotions and dark complexities of her characters. Themes of obsession, social status, and the passage of time intertwine to create a narrative of enduring power. A masterpiece of Gothic literature, Wuthering Heights continues to enthrall readers with its intensity and originality.",
+        "published_date": "1847-12-01",
+        "genre": "Gothic Fiction",
+        "ISBN": "9780141439556"
+      },
+      {
+        "name": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "review": "Tolstoy’s magnum opus weaves together the lives of aristocratic Anna Karenina and the idealistic Konstantin Levin. The novel explores themes of love, infidelity, family, and societal expectations with unparalleled depth. Anna’s tragic love affair with Count Vronsky contrasts sharply with Levin’s search for meaning and happiness. Tolstoy’s vivid characters and keen social observations bring 19th-century Russia to life. With its intricate narrative and timeless themes, Anna Karenina stands as one of the greatest achievements in world literature, offering profound insights into the human condition.",
+        "published_date": "1878-01-01",
+        "genre": "Classic Fiction",
+        "ISBN": "9780143035008"
+      },
+      {
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "review": "Salinger’s iconic novel captures the struggles of adolescence through the eyes of Holden Caulfield. Disillusioned by the phoniness of the adult world, Holden wanders New York City, searching for meaning and connection. The novel’s conversational tone and candid exploration of mental health, identity, and societal expectations resonate deeply with readers. Salinger’s unforgettable portrayal of a young man’s inner turmoil and his yearning for authenticity continues to make The Catcher in the Rye a powerful and relatable coming-of-age story.",
+        "published_date": "1951-07-16",
+        "genre": "Coming-of-Age Fiction",
+        "ISBN": "9780316769488"
+      },
+      {
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "review": "Huxley’s dystopian masterpiece presents a chilling vision of a technologically advanced society where individuality and human emotions are suppressed. Set in a world of engineered happiness and rigid conformity, the novel explores the consequences of consumerism, scientific advancements, and the loss of personal freedoms. Through characters like Bernard Marx and John the Savage, Huxley delves into themes of control, identity, and the cost of progress. With its prescient insights and thought-provoking narrative, Brave New World remains a seminal work of speculative fiction.",
+        "published_date": "1932-01-01",
+        "genre": "Dystopian Fiction",
+        "ISBN": "9780060850524"
+      },
+      {
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "review": "This enchanting prelude to The Lord of the Rings follows the adventures of Bilbo Baggins, a reluctant hero who embarks on a quest to reclaim treasure guarded by the dragon Smaug. Along the way, he encounters trolls, elves, and the enigmatic Gollum. Tolkien’s richly imaginative world and vivid storytelling make The Hobbit a timeless classic of fantasy literature. With themes of courage, friendship, and self-discovery, this tale continues to captivate readers of all ages, offering a journey filled with wonder and excitement.",
+        "published_date": "1937-09-21",
+        "genre": "Fantasy",
+        "ISBN": "9780547928227"
+      },
+      {
+        "name": "The Odyssey",
+        "author": "Homer",
+        "review": "One of the greatest epics of all time, The Odyssey chronicles Odysseus’s perilous journey home after the Trojan War. Faced with challenges from mythical creatures, gods, and his own hubris, Odysseus’s story is a profound exploration of perseverance, loyalty, and the human spirit. Homer’s masterful storytelling and poetic language bring to life the adventures and trials of his hero. As a foundational work of Western literature, The Odyssey continues to inspire and enthrall readers with its timeless themes and captivating narrative.",
+        "published_date": "Approx. 8th Century BC",
+        "genre": "Epic Poetry",
+        "ISBN": "9780140268867"
+      },
+      {
+        "name": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "review": "This profound novel explores the complex relationships and moral dilemmas of the Karamazov family. Dostoevsky masterfully weaves themes of faith, free will, and redemption into a gripping narrative. The tension between the brothers—impulsive Dmitri, intellectual Ivan, and spiritual Alyosha—reflects the broader philosophical conflicts of human existence. Set against the backdrop of 19th-century Russia, the novel delves deep into the human psyche. With its rich characterizations and profound philosophical insights, The Brothers Karamazov remains a towering achievement in world literature.",
+        "published_date": "1880-01-01",
+        "genre": "Philosophical Fiction",
+        "ISBN": "9780140449242"
+      },
+      {
+        "name": "Les Misérables",
+        "author": "Victor Hugo",
+        "review": "Victor Hugo’s epic novel is a sweeping tale of love, redemption, and social justice set against the backdrop of 19th-century France. The story follows Jean Valjean, an ex-convict seeking a new life, and the relentless pursuit by Inspector Javert. Interwoven with their narrative are the lives of other memorable characters, such as Fantine, Cosette, and Marius. Hugo explores themes of poverty, morality, and sacrifice with unparalleled depth. With its richly drawn characters and timeless messages, Les Misérables remains a monumental work of literature.",
+        "published_date": "1862-01-01",
+        "genre": "Historical Fiction",
+        "ISBN": "9780451419439"
+      },
+      {
+        "name": "The Iliad",
+        "author": "Homer",
+        "review": "An enduring classic of Western literature, The Iliad tells the story of the Trojan War and the heroics of Achilles. Homer’s epic poem explores themes of honor, rage, and the human cost of conflict. Set against a backdrop of gods and mortals, the narrative captures the brutality and beauty of ancient warfare. Through vivid imagery and poetic mastery, Homer brings to life timeless tales of heroism and tragedy. The Iliad remains a cornerstone of literary history, offering profound insights into the complexities of human nature and destiny.",
+        "published_date": "Approx. 8th Century BC",
+        "genre": "Epic Poetry",
+        "ISBN": "9780140445923"
+      },
+      {
+        "name": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "review": "Dante’s masterpiece takes readers on a journey through Hell, Purgatory, and Heaven. Guided by the poet Virgil and later by Beatrice, Dante’s allegorical epic explores themes of sin, redemption, and divine justice. Written in Italian verse, The Divine Comedy is a profound meditation on the human soul’s quest for salvation. Dante’s vivid imagery and imaginative storytelling have captivated readers for centuries, making it one of the most influential works in world literature. This epic remains a timeless exploration of morality and spirituality.",
+        "published_date": "1320-01-01",
+        "genre": "Epic Poetry",
+        "ISBN": "9780142437228"
+      },
+      {
+        "name": "Dracula",
+        "author": "Bram Stoker",
+        "review": "Bram Stoker’s Gothic masterpiece introduces the iconic character of Count Dracula, a figure synonymous with the vampire mythos. Told through diary entries and letters, the novel follows Jonathan Harker, Mina, and Van Helsing as they battle the sinister count. Stoker weaves themes of fear, seduction, and the clash between modernity and ancient evil. With its chilling atmosphere and memorable characters, Dracula continues to enthrall readers as a cornerstone of Gothic horror and an enduring tale of suspense and supernatural intrigue.",
+        "published_date": "1897-05-26",
+        "genre": "Gothic Horror",
+        "ISBN": "9780141439846"
+      },
+      {
+        "name": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "review": "This landmark novel tells the multi-generational saga of the Buendía family in the fictional town of Macondo. García Márquez masterfully blends reality and magic, exploring themes of love, solitude, and the passage of time. Rich with symbolism and lyrical prose, the novel captures the essence of Latin American culture and history. With its intricate narrative and vivid characters, One Hundred Years of Solitude remains a towering achievement in magical realism and world literature, celebrated for its universal truths and poetic beauty.",
+        "published_date": "1967-06-05",
+        "genre": "Magical Realism",
+        "ISBN": "9780060883287"
+      },
+      {
+        "name": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "review": "Widely regarded as the first modern novel, Don Quixote follows the misadventures of a delusional knight and his loyal squire, Sancho Panza. Cervantes’s satirical masterpiece explores themes of chivalry, idealism, and the power of imagination. Through its humorous and poignant narrative, the novel delves into the complexities of human ambition and folly. With its enduring characters and timeless appeal, Don Quixote has influenced countless writers and continues to resonate with readers as a profound and entertaining exploration of the human spirit.",
+        "published_date": "1605-01-16",
+        "genre": "Satirical Fiction",
+        "ISBN": "9780060934347"
+      },
+      {
+        "name": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "review": "Steinbeck’s Pulitzer Prize-winning novel chronicles the struggles of the Joad family during the Great Depression. Forced to leave their Oklahoma farm, they journey to California in search of a better life. The Grapes of Wrath poignantly captures themes of poverty, social injustice, and human resilience. Steinbeck’s evocative prose and vivid portrayal of Dust Bowl America bring the hardships and hopes of his characters to life. As a powerful social commentary, the novel remains a timeless exploration of the American spirit and the enduring fight for dignity.",
+        "published_date": "1939-04-14",
+        "genre": "Historical Fiction",
+        "ISBN": "9780143039433"
+      },
+      {
+        "name": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "review": "Wilde’s only novel is a dark and captivating exploration of vanity, morality, and the pursuit of pleasure. The story follows Dorian Gray, a young man who trades his soul for eternal youth while his portrait bears the marks of his sins. Wilde’s witty and lyrical prose delves into the consequences of hedonism and the corruption of the soul. Rich with symbolism and philosophical depth, The Picture of Dorian Gray remains a timeless classic, offering a compelling critique of societal values and the human condition.",
+        "published_date": "1890-06-20",
+        "genre": "Philosophical Fiction",
+        "ISBN": "9780141442464"
+      },
+      {
+        "name": "The Alchemist",
+        "author": "Paulo Coelho",
+        "review": "This modern classic follows Santiago, a shepherd boy on a journey to find his Personal Legend and fulfill his dreams. Along the way, he encounters challenges, learns profound lessons, and discovers the power of following one’s heart. Coelho’s simple yet profound storytelling captures themes of destiny, self-discovery, and the interconnectedness of all things. The Alchemist has inspired millions with its timeless wisdom and optimistic message, making it a beloved book for anyone seeking purpose and meaning in life.",
+        "published_date": "1988-01-01",
+        "genre": "Philosophical Fiction",
+        "ISBN": "9780061122415"
+      },
+      {
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "review": "Tolkien’s epic trilogy is a monumental work of fantasy literature. The tale follows Frodo Baggins and the Fellowship of the Ring as they embark on a perilous quest to destroy the One Ring and save Middle-earth from the dark lord Sauron. With its richly imagined world, complex characters, and timeless themes of friendship, courage, and sacrifice, The Lord of the Rings is a masterful narrative that has captivated generations of readers. Tolkien’s unparalleled creativity cements his work as a cornerstone of fantasy fiction.",
+        "published_date": "1954-07-29",
+        "genre": "Fantasy",
+        "ISBN": "9780544003415"
+      },
+      {
+        "name": "Frankenstein",
+        "author": "Mary Shelley",
+        "review": "Mary Shelley’s groundbreaking novel is a haunting exploration of creation, ambition, and the consequences of playing God. Victor Frankenstein’s quest to create life results in the birth of a monstrous being, sparking a tragic chain of events. Shelley’s Gothic masterpiece delves into themes of isolation, morality, and the human desire for knowledge. With its timeless questions about science and humanity, Frankenstein remains a profound and thought-provoking work that continues to influence literature, film, and ethical debates in modern society.",
+        "published_date": "1818-01-01",
+        "genre": "Gothic Fiction",
+        "ISBN": "9780141439471"
+      },
+      {
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "review": "Melville’s epic tale of obsession and revenge follows Captain Ahab’s relentless pursuit of the white whale, Moby Dick. Narrated by Ishmael, the novel explores themes of fate, nature, and the limits of human understanding. With its vivid descriptions of life at sea and philosophical depth, Moby-Dick transcends the adventure genre to become a profound exploration of the human spirit. Melville’s richly symbolic narrative and intricate prose make this novel a timeless masterpiece, celebrated for its literary brilliance and enduring themes.",
+        "published_date": "1851-10-18",
+        "genre": "Adventure Fiction",
+        "ISBN": "9780142437247"
+      },
+      {
+        "name": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "review": "Set during the tumultuous French Revolution, Dickens’s historical novel contrasts the lives of characters in London and Paris. The story intertwines the fates of Charles Darnay, a French aristocrat, and Sydney Carton, an English lawyer, exploring themes of love, sacrifice, and redemption. Dickens’s masterful prose captures the chaos and heroism of the era, creating a vivid and emotionally charged narrative. With its memorable opening and iconic closing lines, A Tale of Two Cities remains a powerful testament to the human capacity for selflessness and resilience.",
+        "published_date": "1859-01-01",
+        "genre": "Historical Fiction",
+        "ISBN": "9780141439600"
+      },
+      {
+        "name": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "review": "Woolf’s modernist masterpiece explores the complexities of family dynamics and human consciousness. Set on the Isle of Skye, the novel revolves around the Ramsay family and their guests as they confront themes of time, memory, and artistic creation. Woolf’s innovative narrative technique, using stream-of-consciousness, provides deep insights into the characters’ inner lives. To the Lighthouse is celebrated for its lyrical prose, psychological depth, and exploration of existential themes, solidifying Woolf’s reputation as one of the most influential writers of the 20th century.",
+        "published_date": "1927-05-05",
+        "genre": "Modernist Fiction",
+        "ISBN": "9780156907392"
+      },
+      {
+        "name": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "review": "Vonnegut’s groundbreaking novel blends science fiction, dark humor, and anti-war commentary to tell the story of Billy Pilgrim, an optometrist who becomes unstuck in time. Through his experiences in World War II, including the firebombing of Dresden, and his abduction by aliens, the novel examines the absurdities of war and the fragility of human life. With its unconventional structure and satirical tone, Slaughterhouse-Five is a unique and thought-provoking work that continues to resonate as a powerful critique of violence and human suffering.",
+        "published_date": "1969-03-31",
+        "genre": "Science Fiction",
+        "ISBN": "9780385333849"
+      },
+      {
+        "name": "Beloved",
+        "author": "Toni Morrison",
+        "review": "Morrison’s Pulitzer Prize-winning novel is a haunting exploration of slavery’s enduring impact on the human spirit. Sethe, a former enslaved woman, is haunted by the ghost of her dead child and the traumas of her past. With its lyrical prose and complex narrative structure, Beloved delves into themes of motherhood, memory, and the legacy of oppression. Morrison’s deeply evocative storytelling captures the resilience of the human soul, making this novel a powerful and unforgettable testament to the African American experience and the enduring scars of history.",
+        "published_date": "1987-09-01",
+        "genre": "Historical Fiction",
+        "ISBN": "9781400033416"
+      },
+      {
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "review": "Huxley’s dystopian classic explores a futuristic society driven by technological advancement, consumerism, and engineered happiness. Set in a world where individuality is suppressed and human emotions are chemically controlled, the novel follows Bernard Marx as he begins to question the societal norms. Through its chilling depiction of a controlled utopia, Brave New World examines themes of freedom, conformity, and the cost of progress. Huxley’s visionary narrative remains profoundly relevant, challenging readers to consider the balance between innovation and humanity.",
+        "published_date": "1932-01-01",
+        "genre": "Dystopian Fiction",
+        "ISBN": "9780060850529"
+      },
+      {
+        "name": "The Road",
+        "author": "Cormac McCarthy",
+        "review": "This Pulitzer Prize-winning novel is a harrowing tale of survival in a post-apocalyptic world. A father and son journey through a desolate landscape, struggling to stay alive while preserving their humanity. McCarthy’s stark prose and haunting imagery capture the bleakness of their environment and the depth of their bond. The Road is a powerful exploration of love, hope, and resilience amidst despair. McCarthy’s masterful storytelling makes this novel a hauntingly beautiful meditation on the enduring strength of the human spirit.",
+        "published_date": "2006-09-26",
+        "genre": "Post-Apocalyptic Fiction",
+        "ISBN": "9780307387899"
+      },
+      {
+        "name": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "review": "Hosseini’s debut novel is a deeply emotional story of friendship, betrayal, and redemption. Set in Afghanistan and the United States, it follows Amir as he grapples with his past mistakes and seeks to make amends. Through its poignant portrayal of the bond between Amir and Hassan, The Kite Runner explores themes of loyalty, guilt, and the impact of historical upheavals. Hosseini’s vivid storytelling and complex characters have made this novel a beloved and enduring work that resonates with readers worldwide.",
+        "published_date": "2003-05-29",
+        "genre": "Historical Fiction",
+        "ISBN": "9781594631931"
+      },
+      {
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "review": "Salinger’s iconic novel captures the rebellious spirit of adolescence through the eyes of Holden Caulfield. Disenchanted with society and grappling with the loss of innocence, Holden narrates his experiences in a candid and relatable voice. The Catcher in the Rye explores themes of identity, alienation, and the complexities of growing up. Salinger’s timeless work has resonated with generations of readers, offering a profound and often humorous exploration of youth and the struggles of finding one’s place in the world.",
+        "published_date": "1951-07-16",
+        "genre": "Coming-of-Age Fiction",
+        "ISBN": "9780316769488"
+      },
+      {
+        "name": "Life of Pi",
+        "author": "Yann Martel",
+        "review": "Martel’s novel is a gripping tale of survival and spirituality. Pi Patel, a young Indian boy, finds himself stranded on a lifeboat in the Pacific Ocean with a Bengal tiger named Richard Parker. Through its blend of adventure, philosophy, and humor, Life of Pi explores themes of faith, resilience, and the human capacity for storytelling. Martel’s imaginative narrative and vivid descriptions make this novel an unforgettable journey, offering profound insights into the nature of belief and the search for meaning.",
+        "published_date": "2001-09-11",
+        "genre": "Adventure Fiction",
+        "ISBN": "9780156027326"
+      }
+]
+
+
+// To Kill a Mockingbird by Harper Lee
+// 1984 by George Orwell
+// Pride and Prejudice by Jane Austen
+// The Great Gatsby by F. Scott Fitzgerald
+// Moby-Dick by Herman Melville
+// One Hundred Years of Solitude by Gabriel García Márquez
+// The Catcher in the Rye by J.D. Salinger
+// Crime and Punishment by Fyodor Dostoevsky
+// The Lord of the Rings by J.R.R. Tolkien
+// Brave New World by Aldous Huxley
+// Non-Fiction
+// Sapiens: A Brief History of Humankind by Yuval Noah Harari
+// Educated by Tara Westover
+// The Diary of a Young Girl by Anne Frank
+// The Power of Now by Eckhart Tolle
+// Man’s Search for Meaning by Viktor E. Frankl
+// Atomic Habits by James Clear
+// Thinking, Fast and Slow by Daniel Kahneman
+// Becoming by Michelle Obama
+// The Immortal Life of Henrietta Lacks by Rebecca Skloot
+// Guns, Germs, and Steel by Jared Diamond
+// Fantasy and Science Fiction
+// Harry Potter and the Sorcerer’s Stone by J.K. Rowling
+// Dune by Frank Herbert
+// A Song of Ice and Fire series by George R.R. Martin
+// The Name of the Wind by Patrick Rothfuss
+// Ender's Game by Orson Scott Card
+// Classics and Literary Fiction
+// Anna Karenina by Leo Tolstoy
+// Jane Eyre by Charlotte Brontë
+// Wuthering Heights by Emily Brontë
+// The Brothers Karamazov by Fyodor Dostoevsky
+// Middlemarch by George Eliot
+
+// https://manybooks.net/
+// https://www.bookfinder.com/
+// https://www.wattpad.com/
+// https://www.bookbub.com/
+// https://librivox.org/
+// https://openlibrary.org/
+// https://www.scribd.com/
+// https://www.amazon.com/kindle-dbs/storefront?storeType=browse&node=154606011
+// https://www.goodreads.com/
+// https://www.gutenberg.org/
+
+// https://manybooks.net/
+// https://www.bookbub.com/
+
+
