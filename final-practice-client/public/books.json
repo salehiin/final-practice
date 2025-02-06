@@ -5,7 +5,9 @@
     "review": "Harper Lee’s Pulitzer Prize-winning novel is a powerful exploration of racial injustice and moral growth in the American South. Through the eyes of Scout Finch, the story unpacks themes of prejudice, empathy, and the loss of innocence as her father, lawyer Atticus Finch, defends a black man falsely accused of raping a white woman. The novel’s timeless themes and memorable characters, particularly the principled Atticus, make it a crucial work in American literature.",
     "published_date": "1960-07-11",
     "genre": "Fiction",
-    "ISBN": "9780061120084"
+    "ISBN": "9780061120084",
+    "reading_time": 18,
+    "img": "https://media.glamour.com/photos/56e1f3c462b398fa64cbd304/master/w_1600,c_limit/entertainment-2016-02-18-main.jpg"
   },
   {
     "name": "1984",
@@ -13,7 +15,9 @@
     "review": "George Orwell’s dystopian classic is a chilling portrayal of a totalitarian society under constant surveillance. Set in Oceania, the novel follows Winston Smith as he rebels against the oppressive regime of Big Brother. Orwell critiques the dangers of unchecked government control, propaganda, and loss of individual freedom. The haunting world of 1984 remains a potent reminder of the risks of authoritarianism, surveillance, and the erosion of truth.",
     "published_date": "1949-06-08",
     "genre": "Fiction",
-    "ISBN": "9780451524935"
+    "ISBN": "9780451524935",
+    "reading_time": 18,
+    "img": "https://www.baylissbooks.co.uk/cdn/shop/files/1984orwellfinebindingnavy.jpg?v=1705591016&width=1000"
   },
   {
     "name": "Pride and Prejudice",
@@ -21,7 +25,9 @@
     "review": "Jane Austen’s beloved novel explores the themes of love, marriage, and social class in 19th-century England. The story centers on the witty and independent Elizabeth Bennet as she navigates her complicated relationship with the proud and aloof Mr. Darcy. Austen’s sharp commentary on societal expectations, along with her enduring characters, has made Pride and Prejudice a timeless classic in English literature, cherished for its wit, romance, and insight into human nature.",
     "published_date": "1813-01-28",
     "genre": "Fiction",
-    "ISBN": "9780141439518"
+    "ISBN": "9780141439518",
+    "reading_time": 18,
+    "img": "https://m.media-amazon.com/images/I/712P0p5cXIL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "name": "The Great Gatsby",
@@ -29,7 +35,9 @@
     "review": "Set in the Roaring Twenties, F. Scott Fitzgerald’s novel explores the life of Jay Gatsby, a wealthy man who yearns for his lost love, Daisy Buchanan. Through the eyes of narrator Nick Carraway, The Great Gatsby critiques the American Dream, examining themes of wealth, class, and the disillusionment that accompanies the pursuit of material success. Fitzgerald’s lyrical prose and poignant depiction of longing and loss make this novel a quintessential work of American literature.",
     "published_date": "1925-04-10",
     "genre": "Fiction",
-    "ISBN": "9780743273565"
+    "ISBN": "9780743273565",
+    "reading_time": 18,
+    "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781524879761/the-great-gatsby-9781524879761_lg.jpg"
   },
   {
     "name": "Moby-Dick",
@@ -37,7 +45,9 @@
     "review": "Herman Melville’s epic novel follows Ishmael, a sailor aboard the whaling ship Pequod, captained by the obsessive Ahab, who is hell-bent on hunting the legendary white whale, Moby-Dick. The book delves into themes of revenge, fate, and the relationship between humanity and nature. Moby-Dick is a complex and philosophical work that examines the limits of knowledge and the destructive pursuit of obsession, making it a cornerstone of American literature.",
     "published_date": "1851-10-18",
     "genre": "Fiction",
-    "ISBN": "9781503280786"
+    "ISBN": "9781503280786",
+    "reading_time": 18,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Moby-Dick_FE_title_page.jpg"
   },
   {
     "name": "One Hundred Years of Solitude",
@@ -45,7 +55,9 @@
     "review": "Gabriel García Márquez’s masterpiece of magical realism tells the multigenerational story of the Buendía family in the fictional town of Macondo. Blending the supernatural with the everyday, Márquez explores themes of time, memory, love, and solitude. The novel’s imaginative narrative and rich symbolism have made it a landmark work in Latin American literature and one of the most influential novels of the 20th century.",
     "published_date": "1967-05-30",
     "genre": "Fiction",
-    "ISBN": "9780060883282"
+    "ISBN": "9780060883282",
+    "reading_time": 18,
+    "img": "https://pictures.abebooks.com/isbn/9780060531041-us-300.jpg"
   },
   {
     "name": "The Catcher in the Rye",
@@ -53,7 +65,9 @@
     "review": "J.D. Salinger’s coming-of-age novel follows Holden Caulfield, a disillusioned teenager who has been expelled from prep school and roams New York City in search of meaning. The book explores themes of alienation, depression, and the complexities of adolescence. Holden’s voice, characterized by cynicism and vulnerability, resonates with readers, making The Catcher in the Rye one of the most influential novels of the 20th century.",
     "published_date": "1951-07-16",
     "genre": "Fiction",
-    "ISBN": "9780316769488"
+    "ISBN": "9780316769488",
+    "reading_time": 18,
+    "img": "https://cdn.saksfifthavenue.com/is/image/saks/0400014759900_RED?wid=600&hei=800&qlt=90&resMode=sharp2&op_usm=0.9%2C1.0%2C8%2C0"
   },
   {
     "name": "Crime and Punishment",
@@ -61,14 +75,19 @@
     "review": "Fyodor Dostoevsky’s psychological thriller follows Rodion Raskolnikov, a young law student who commits a murder and is consumed by guilt and paranoia. Set in St. Petersburg, the novel explores themes of morality, redemption, and the human psyche. Raskolnikov’s internal struggle is central to the narrative, and Dostoevsky’s profound philosophical and existential inquiries have made Crime and Punishment a landmark work in world literature.",
     "published_date": "1866-01-01",
     "genre": "Fiction",
-    "ISBN": "9780486454115"
+    "ISBN": "9780486454115",
+    "reading_time": 18,
+    "img": "https://wittywordplay.wordpress.com/wp-content/uploads/2016/04/crime-and-punishment.jpg"
   },
   {
     "name": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
     "review": "J.R.R. Tolkien’s epic fantasy trilogy follows the journey of Frodo Baggins and his companions as they attempt to destroy the One Ring and defeat the Dark Lord Sauron. Rich in mythology, language, and adventure, The Lord of the Rings explores themes of friendship, sacrifice, and the struggle between good and evil. Tolkien’s world-building and detailed narrative have made this series a cornerstone of modern fantasy literature.",
     "published_date": "1954-07-29",
-    "ISBN": "9780544003415"
+    "genre": "Fantasy",
+    "ISBN": "9780544003415",
+    "reading_time": 18,
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif"
   },
   {
     "name": "Brave New World",
@@ -76,7 +95,9 @@
     "review": "Aldous Huxley’s Brave New World presents a dystopian society where technological advancements control every aspect of life. The novel explores themes of consumerism, happiness, and the sacrifice of individuality for the sake of societal stability. Through the character of Bernard Marx, Huxley critiques the cost of progress and conformity. The book is a chilling meditation on the loss of human autonomy and the dangers of totalitarian control.",
     "published_date": "1932-01-01",
     "genre": "Fiction",
-    "ISBN": "9780060850529"
+    "ISBN": "9780060850529",
+    "reading_time": 18,
+    "img": "https://cdn.penguin.co.uk/dam-assets/books/9780099518471/9780099518471-jacket-large.jpg"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -84,7 +105,9 @@
     "review": "In Sapiens, Yuval Noah Harari traces the history of humanity from the dawn of Homo sapiens to the modern age. Harari examines how our species has shaped the world through agriculture, religion, capitalism, and technological advancements. The book offers a thought-provoking perspective on the forces that have driven human progress and the implications of our choices on the future. Sapiens challenges readers to reflect on what it means to be human.",
     "published_date": "2011-01-01",
     "genre": "Non-Fiction",
-    "ISBN": "9780062316097"
+    "ISBN": "9780062316097",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "Educated",
@@ -92,7 +115,9 @@
     "review": "Tara Westover’s memoir recounts her upbringing in a strict, survivalist family in rural Idaho. She was denied formal education until she eventually left home and pursued academic success, earning a Ph.D. from the University of Cambridge. Educated is a powerful narrative about resilience, self-discovery, and the transformative power of education. Westover’s story reveals the challenges of reconciling personal growth with family loyalty and offers insight into the struggles of escaping isolation and oppressive belief systems.",
     "published_date": "2018-02-20",
     "genre": "Non-Fiction",
-    "ISBN": "9780399590504"
+    "ISBN": "9780399590504",
+    "reading_time": 18,
+    "img": "https://cdn2.penguin.com.au/covers/400/9780099511021.jpg"
   },
   {
     "name": "The Diary of a Young Girl",
@@ -100,7 +125,9 @@
     "review": "Anne Frank’s poignant and personal diary, written while she was in hiding during the Holocaust, offers a powerful testament to human courage and hope in the face of unimaginable adversity. Through her candid reflections, Anne describes her fears, dreams, and the realities of living under Nazi oppression. The Diary of a Young Girl is a vital historical document that humanizes the horrors of war and remains a symbol of resilience and the importance of preserving memory.",
     "published_date": "1947-06-25",
     "genre": "Non-Fiction",
-    "ISBN": "9780553296983"
+    "ISBN": "9780553296983",
+    "reading_time": 18,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560816565i/48855.jpg"
   },
   {
     "name": "The Power of Now",
@@ -108,7 +135,9 @@
     "review": "Eckhart Tolle’s spiritual guide, The Power of Now, explores the concept of living fully in the present moment, free from the distractions of the past and future. The book offers practical advice on achieving inner peace and self-awareness through mindfulness and the acceptance of the present. Tolle’s teachings focus on transcending the ego and finding enlightenment through the deep awareness of our true selves. This book has inspired countless individuals to seek spiritual growth and mental clarity.",
     "published_date": "1997-06-01",
     "genre": "Non-Fiction",
-    "ISBN": "9781577314806"
+    "ISBN": "9781577314806",
+    "reading_time": 18,
+    "img": "https://community.thriveglobal.com/wp-content/uploads/2020/03/657485a335e8be38b4144cf73cd8af4080af558e-00-00.jpeg"
   },
   {
     "name": "Man’s Search for Meaning",
@@ -116,7 +145,9 @@
     "review": "Viktor Frankl’s memoir and philosophical exploration of life in Nazi concentration camps highlights the importance of finding purpose and meaning, even in the most horrific circumstances. Drawing from his experiences as a prisoner and his background in psychology, Frankl discusses his concept of logotherapy—the idea that the search for meaning is the primary motivational force in humans. Man’s Search for Meaning is an inspiring work that encourages resilience, hope, and the ability to find purpose in suffering.",
     "published_date": "1946-01-01",
     "genre": "Non-Fiction",
-    "ISBN": "9780807014295"
+    "ISBN": "9780807014295",
+    "reading_time": 18,
+    "img": "https://static1.eboighar.com/thumbimages/Books/book_79492021-09-28_1632817133.jpg"
   },
   {
     "name": "Atomic Habits",
@@ -124,7 +155,9 @@
     "review": "In Atomic Habits, James Clear presents a practical guide to breaking bad habits and building positive ones through small, incremental changes. By focusing on the power of tiny habits and continuous improvement, Clear argues that consistent effort leads to remarkable results. The book blends science, psychology, and personal development strategies to help readers reshape their habits and transform their lives. Atomic Habits offers a proven framework for anyone looking to achieve long-term success and personal growth.",
     "published_date": "2018-10-16",
     "genre": "Non-Fiction",
-    "ISBN": "9780735211292"
+    "ISBN": "9780735211292",
+    "reading_time": 18,
+    "img": "https://pathakshamabesh.com/wp-content/uploads/2022/02/91bYsX41DVL.jpg"
   },
   {
     "name": "Thinking, Fast and Slow",
@@ -132,7 +165,9 @@
     "review": "Daniel Kahneman’s groundbreaking work delves into the two systems of thought that drive human decision-making: the fast, intuitive system and the slow, deliberate system. Through extensive research and case studies, Kahneman explores cognitive biases, errors in judgment, and the ways in which our minds can deceive us. Thinking, Fast and Slow offers valuable insights into human behavior, improving decision-making, and understanding the complexities of the human mind. It’s an essential read for anyone interested in psychology, economics, or personal growth.",
     "published_date": "2011-10-25",
     "genre": "Non-Fiction",
-    "ISBN": "9780374275631"
+    "ISBN": "9780374275631",
+    "reading_time": 18,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg"
   },
   {
     "name": "Becoming",
@@ -140,7 +175,9 @@
     "review": "Becoming is the deeply personal memoir of former First Lady Michelle Obama, chronicling her life from her childhood in Chicago to her time in the White House. In this candid and inspirational book, Obama reflects on her struggles, triumphs, and the complexities of identity, ambition, and family life. Becoming is a powerful narrative about resilience, empowerment, and the importance of finding one’s voice in the face of challenges. Michelle Obama’s eloquence and honesty make this memoir both compelling and relatable.",
     "published_date": "2018-11-13",
     "genre": "Non-Fiction",
-    "ISBN": "9781524763138"
+    "ISBN": "9781524763138",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "The Immortal Life of Henrietta Lacks",
@@ -148,7 +185,9 @@
     "review": "Rebecca Skloot’s The Immortal Life of Henrietta Lacks tells the story of Henrietta Lacks, whose cells were taken without her consent and led to major medical breakthroughs. This book explores the ethical issues surrounding medical research, the exploitation of African Americans in science, and the intersection of science, race, and class. It’s both a biography and an investigation into the scientific and ethical ramifications of Lacks’s contribution to modern medicine, making it an important and thought-provoking read.",
     "published_date": "2010-02-02",
     "genre": "Non-Fiction",
-    "ISBN": "9781400052189"
+    "ISBN": "9781400052189",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "Guns, Germs, and Steel",
@@ -156,7 +195,9 @@
     "review": "Jared Diamond’s Pulitzer Prize-winning work examines the factors that shaped the development of human societies and the unequal distribution of wealth and power across the globe. Diamond argues that geography, biology, and environmental factors played pivotal roles in determining the success of civilizations. Guns, Germs, and Steel is a comprehensive and thought-provoking exploration of history that challenges traditional views on race, culture, and human progress. It offers a fascinating, interdisciplinary look at the forces that have shaped the modern world.",
     "published_date": "1997-03-01",
     "genre": "Non-Fiction",
-    "ISBN": "9780393317558"
+    "ISBN": "9780393317558",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "Harry Potter and the Sorcerer’s Stone",
@@ -164,7 +205,9 @@
     "review": "J.K. Rowling’s enchanting debut introduces Harry Potter, a young boy who discovers on his 11th birthday that he is a wizard. Harry attends Hogwarts School of Witchcraft and Wizardry, where he makes lifelong friends and uncovers a dark secret about his past. The Sorcerer’s Stone is a captivating blend of magic, adventure, and friendship, making it a timeless tale for readers of all ages. Rowling’s richly imaginative world and unforgettable characters have made this series a global phenomenon.",
     "published_date": "1997-06-26",
     "genre": "Fantasy",
-    "ISBN": "9780590353427"
+    "ISBN": "9780590353427",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "Dune",
@@ -172,7 +215,9 @@
     "review": "Frank Herbert’s Dune is a monumental science fiction epic set in the desert world of Arrakis. The story follows Paul Atreides, whose family is entrusted with controlling the planet's spice production, the most valuable substance in the universe. Dune explores complex themes of politics, religion, ecology, and power. The novel’s intricate world-building and philosophical depth have made it one of the most influential works in the science fiction genre, inspiring generations of readers and writers.",
     "published_date": "1965-08-01",
     "genre": "Fantasy",
-    "ISBN": "9780441013593"
+    "ISBN": "9780441013593",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "A Song of Ice and Fire series",
@@ -180,7 +225,9 @@
     "review": "George R.R. Martin’s A Song of Ice and Fire series is a sprawling, epic tale of power, politics, and betrayal set in the fictional continents of Westeros and Essos. The series follows multiple characters across several noble houses as they vie for control of the Iron Throne. Known for its morally complex characters and unpredictable plot twists, the series has become one of the most influential fantasy sagas in recent history, with a devoted fan base and an acclaimed television adaptation.",
     "published_date": "1996-08-06",
     "genre": "Fantasy",
-    "ISBN": "9780553381689"
+    "ISBN": "9780553381689",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "The Name of the Wind",
@@ -188,7 +235,9 @@
     "review": "Patrick Rothfuss’s The Name of the Wind is the first book in the Kingkiller Chronicle series, following the life of Kvothe, a legendary figure in the world of magic. Told in the form of a memoir, Kvothe recounts his journey from humble beginnings to becoming a renowned wizard, musician, and adventurer. The novel blends fantasy, mystery, and lyrical prose, capturing the imagination with its unique narrative style and rich world-building, making it a modern fantasy classic.",
     "published_date": "2007-03-27",
     "genre": "Fantasy",
-    "ISBN": "9780756404736"
+    "ISBN": "9780756404736",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "Ender's Game",
@@ -196,7 +245,9 @@
     "review": "Ender's Game by Orson Scott Card is a gripping science fiction novel set in a future where Earth is engaged in an interstellar war with an alien species. The story follows Ender Wiggin, a young boy who is recruited into a military academy to train for command. As Ender faces challenges in both training and combat, the novel explores themes of leadership, morality, and the psychological toll of war. Ender’s Game is a thought-provoking and action-packed exploration of human nature and conflict.",
     "published_date": "1985-01-15",
     "genre": "Fantasy",
-    "ISBN": "9780812550702"
+    "ISBN": "9780812550702",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "Anna Karenina",
@@ -204,7 +255,9 @@
     "review": "Leo Tolstoy’s Anna Karenina is a monumental Russian novel that explores themes of love, family, and social change. The novel centers on Anna, a beautiful woman who embarks on a doomed affair with Count Vronsky, leading to her eventual downfall. Tolstoy intricately weaves the storylines of various characters, offering profound insights into Russian society, morality, and human nature. Anna Karenina is a deeply philosophical and emotionally complex work, widely considered one of the greatest novels ever written.",
     "published_date": "1878-01-01",
     "genre": "Classic",
-    "ISBN": "9781853262715"
+    "ISBN": "9781853262715",
+    "reading_time": 18,
+    "img": "https://www.gutenberg.org/files/1399/1399-h/images/cover.jpg"
   },
   {
     "name": "Jane Eyre",
@@ -212,7 +265,9 @@
     "review": "Charlotte Brontë’s Gothic masterpiece, Jane Eyre, tells the story of an orphaned girl who grows into a strong, independent woman. After becoming a governess at Thornfield Hall, she falls in love with her employer, the mysterious Mr. Rochester. However, their love is tested by dark secrets and moral dilemmas. Brontë’s novel addresses themes of love, class, and morality, making it a feminist and proto-modern work that has captivated readers for generations.",
     "published_date": "1847-10-16",
     "genre": "Classic",
-    "ISBN": "9780141441146"
+    "ISBN": "9780141441146",
+    "reading_time": 18,
+    "img": "https://images.nypl.org/index.php?id=ps_the_2713&t=w"
   },
   {
     "name": "Wuthering Heights",
@@ -220,7 +275,9 @@
     "review": "Wuthering Heights, Emily Brontë’s only novel, is a dark and passionate tale of love, obsession, and revenge. The novel follows the tumultuous relationship between Heathcliff and Catherine Earnshaw, whose love transcends social boundaries and defies societal norms. Set in the remote Yorkshire moors, the novel explores themes of isolation, vengeance, and the destructive power of unchecked passion. Wuthering Heights is a hauntingly original and complex story, often regarded as one of the greatest works of English literature.",
     "published_date": "1847-12-01",
     "genre": "Classic",
-    "ISBN": "9780141439556"
+    "ISBN": "9780141439556",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "The Brothers Karamazov",
@@ -228,7 +285,9 @@
     "review": "Fyodor Dostoevsky’s The Brothers Karamazov is a philosophical and psychological exploration of faith, doubt, morality, and family. The novel revolves around the Karamazov brothers—Dmitri, Ivan, and Alexei—each representing different philosophical perspectives, and their troubled relationship with their father, Fyodor Pavlovich. The Brothers Karamazov tackles profound existential questions and explores the nature of human suffering, making it one of Dostoevsky’s most ambitious and influential works.",
     "published_date": "1880-11-01",
     "genre": "Classic",
-    "ISBN": "9780374528379"
+    "ISBN": "9780374528379",
+    "reading_time": 18,
+    "img": "https://m.media-amazon.com/images/I/91JHHqEbX4L._SL1500_.jpg"
   },
   {
     "name": "Middlemarch",
@@ -236,7 +295,9 @@
     "review": "A richly detailed examination of life in a provincial English town, Middlemarch weaves multiple storylines of ambition, love, and social reform. Eliot’s nuanced portrayal of characters and their moral struggles makes this an enduring classic that reflects the intricacies of human relationships and society.",
     "published_date": "1871-12-01",
     "genre": "Classic",
-    "ISBN": "9780141439549"
+    "ISBN": "9780141439549",
+    "reading_time": 18,
+    "img": "https://www.gutenberg.org/files/145/145-h/images/cover.jpg"
   },
   {
     "name": "The Alchemist",
@@ -244,7 +305,9 @@
     "review": "This enchanting fable follows Santiago, a shepherd boy on a journey to find his personal legend. Full of spiritual wisdom and universal truths, Coelho’s novel inspires readers to follow their dreams and listen to their hearts. It’s a timeless tale of self-discovery and purpose.",
     "published_date": "1988-01-01",
     "genre": "Fiction",
-    "ISBN": "9780061122415"
+    "ISBN": "9780061122415",
+    "reading_time": 18,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg"
   },
   {
     "name": "The Road",
@@ -252,7 +315,9 @@
     "review": "In a post-apocalyptic world, a father and son journey through a desolate landscape, facing unimaginable hardships. Their bond and hope for survival drive this hauntingly beautiful story. McCarthy’s sparse yet evocative prose makes this a profound meditation on love, resilience, and humanity.",
     "published_date": "2006-09-26",
     "genre": "Fiction",
-    "ISBN": "9780307387899"
+    "ISBN": "9780307387899",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "The Kite Runner",
@@ -260,7 +325,9 @@
     "review": "A tale of friendship, betrayal, and redemption, this novel follows Amir and Hassan in war-torn Afghanistan. Hosseini weaves a powerful narrative that explores themes of guilt, forgiveness, and the impact of choices on our lives. It’s a deeply moving story that stays with you.",
     "published_date": "2003-05-29",
     "genre": "Fiction",
-    "ISBN": "9781594631931"
+    "ISBN": "9781594631931",
+    "reading_time": 18,
+    "img": ""
   },
   {
     "name": "The Book Thief",
@@ -268,7 +335,8 @@
     "review": "Set during World War II, this poignant story is narrated by Death and centers on Liesel, a young girl who discovers the power of words. Her love of books and friendship with a hidden Jewish man highlight the resilience of the human spirit in dark times. A heartwarming and heartbreaking read.",
     "published_date": "2005-03-14",
     "genre": "Fiction",
-    "ISBN": "9780375842207"
+    "ISBN": "9780375842207",
+    "img": ""
   },
   {
     "name": "Life of Pi",
@@ -276,6 +344,8 @@
     "review": "Pi Patel survives a shipwreck and spends 227 days stranded on a lifeboat with a Bengal tiger named Richard Parker. This imaginative and philosophical tale explores themes of survival, faith, and the human spirit. Martel’s storytelling creates a profound and unforgettable reading experience.",
     "published_date": "2001-09-11",
     "genre": "Fiction",
-    "ISBN": "9780156027328"
+    "ISBN": "9780156027328",
+    "reading_time": 18,
+    "img": ""
   }
 ]

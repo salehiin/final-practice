@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^11.2.0",
+    "react-hook-form": "^7.54.2"
+  }
+}

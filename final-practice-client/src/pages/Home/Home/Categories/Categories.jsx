@@ -5,11 +5,11 @@ import BookCategory from "./BookCategory/BookCategory";
 
 
 const Categories = () => {
-    const [book] = useBook();
-    const classic = book.filter(item => item.genre === 'Classic');
-    const fantasy = book.filter(item => item.genre === 'Fantasy');
-    const fiction = book.filter(item => item.genre === 'Fiction');
-    const non_fiction = book.filter(item => item.genre === 'Non-Fiction');
+    const [books] = useBook();
+    const classic = books.filter(item => item.genre === 'Classic');
+    const fantasy = books.filter(item => item.genre === 'Fantasy');
+    const fiction = books.filter(item => item.genre === 'Fiction');
+    const non_fiction = books.filter(item => item.genre === 'Non-Fiction');
 
     // const [book, setBook] = useState([]);
     // useEffect(() =>{
