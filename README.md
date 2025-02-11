@@ -24,7 +24,7 @@
 # Work on site body start
 
 # main.jsx - reactrouter.com - tutorial
-1. <RouterProvider router={router} />
+1. RouterProvider router={router} />
 2. import {
   RouterProvider,
   } from "react-router-dom";
@@ -42,14 +42,14 @@
         children: []
     },
 ]);    
-4. <Main></Main>
+4. Main></Main>
 5. children: [
             {
                 path: '/', 
                 element: <Home></Home>
             }
         ]
-6. <Home></Home>        
+6. Home></Home>        
 
 
 # Main.jsx
