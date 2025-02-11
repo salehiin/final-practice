@@ -63,11 +63,13 @@
 # Footer.jsx
 
 # NavBar.jsx
-10. const navOptions = <>
+10. const navOptions = >
+
         li>a>Item 1/a>/li>
         li>a>Item 2/a>/li>
         <li><a>Item 3</a></li>
-    </>
+
+    />
 
 # 64.3 - react awesome component, dwn image use, banner over navbar
 
