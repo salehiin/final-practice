@@ -42,30 +42,30 @@
         children: []
     },
 ]);    
-4. Main></Main>
+4. Main>/Main>
 5. children: [
             {
                 path: '/', 
                 element: <Home></Home>
             }
         ]
-6. Home></Home>        
+6. Home>/Home>        
 
 
 # Main.jsx
-9. <NavBar/>
-3. <Outlet></Outlet>
-7. <Footer/>
+9. NavBar/>
+3. Outlet>/Outlet>
+7. Footer/>
 
 # Home.jsx
-11. <Banner/>
+11. Banner/>
 
 # Footer.jsx
 
 # NavBar.jsx
 10. const navOptions = <>
-        <li><a>Item 1</a></li>
-        <li><a>Item 2</a></li>
+        li>a>Item 1/a>/li>
+        li>a>Item 2/a>/li>
         <li><a>Item 3</a></li>
     </>
 
